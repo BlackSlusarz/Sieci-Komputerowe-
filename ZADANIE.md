@@ -292,3 +292,19 @@ Routing
 | ``S01``| enp0s3 | ip route a 188.156.17.0/24 via 188.156.218.4     |
 | ``S01``| enp0s8 | ip route a default via 188.156.220.10     |
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sss
+
